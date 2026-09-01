@@ -66,6 +66,3 @@ The dataset (`insurance.csv`) contains 1,338 records with the following features
 
 This is a learning project built to practice the fundamentals of the machine learning workflow — from EDA to feature engineering. Contributions, suggestions, and feedback are welcome!
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
